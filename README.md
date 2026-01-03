@@ -7,7 +7,7 @@ This repository is created as a **first learning-oriented OpenCV project**.
 
 ---
 
-##  Features
+##  Features:
 - Face detection using Haar Cascade
 - Video file input
 - Real-time FPS calculation
@@ -16,13 +16,14 @@ This repository is created as a **first learning-oriented OpenCV project**.
 
 ---
 
-##  Requirements
+##  Requirements:
 - Python 3.x
 - OpenCV
 
-Install dependency:
-```bash
-pip install opencv-python
+---
+
+## Install dependency:
+`pip install opencv-python`
 
 ---
 
