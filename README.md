@@ -23,7 +23,7 @@ This repository is created as a **first learning-oriented OpenCV project**.
 ---
 
 ## Install dependency:
-`pip install opencv-python`
+`pip install -r requirements.txt`
 
 ---
 
