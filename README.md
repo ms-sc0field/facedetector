@@ -17,8 +17,8 @@ This repository is created as a **first learning-oriented OpenCV project**.
 ---
 
 ##  Requirements:
-- Python 3.x
-- OpenCV
+- Python 3.11 recommended
+- OpenCV (opencv-python)
 
 ---
 
