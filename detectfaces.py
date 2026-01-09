@@ -4,7 +4,7 @@ import cv2
 import time
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_alt2.xml')
-video_capture = cv2.VideoCapture(r'peoples2.mp4')
+video_capture = cv2.VideoCapture(r'peoples.mp4')
 
 prev_frame_time = time.time()
 new_frame_time = 0
